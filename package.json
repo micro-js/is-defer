@@ -2,7 +2,7 @@
   "name": "@f/is-defer",
   "description": "Check if value looks like a defer.",
   "repository": "git://github.com/micro-js/is-defer.git",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "license": "MIT",
   "main": "lib/index.js",
   "scripts": {
